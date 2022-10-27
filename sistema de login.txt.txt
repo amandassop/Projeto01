@@ -1,2 +1,4 @@
 Digite seu e-mail
 Digite sua senha
+Mude sua senha 
+Mude seu e-mail
